@@ -2,7 +2,4 @@
 	
 Ödev Açıklaması:
 
-Eczane otomasyon uygulamamızda,  eczanelerden reçeteli hastalar ilaç alabilmektedir. Reçetelerden, eczanelerdeki personeller hasta ve reçeteyi yazan doktor hakkında bilgi sahibi olabilir ve reçetedeki ilaç hakkında bilgilerle birlikte doktorun yazdığı miktarda ilaç personel tarafından sisteme işlenip stoklardan kontrol edilebilir.
-Bunların yanı sıra eczane kendi personelleri hakkında bilgilere sistemden bakıp hangi personelinin hangi tarihler ve saatler arasında mesainin başlayıp bittiğini de öğrenebilir.
-Son olarak otomasyonu kullanan eczaneler, ilaç firmasıyla aralarındaki alışverişten sonraki stok durumunu öğrenebilirler ve buna göre sisteme ilaç giriş çıkışı yapabilirler.
-Kısaca otomasyonumuz bu ihtiyaçları karşılamaktadır.
+Eczahane otomasyon sisteminde, eczahane çalışanları sisteme reçete girişinde bulunabilir. Daha önceden sisteme kaydedilmiş olan reçeteleri ve reçetelerdeki ilaçların bilgilerii görüntüleyebilir. Sistemde kayıtlı olan hasta bilgilerini de görüntüleyebilir.Bunların yanında stoktaki ilaçları sorgulayıp miktarlarında azaltma ve arttırma gibi işlemler yapabilir. İlaçları tedarik ettikleri firmalari görüntüleyebilir veya yeni firmaların bilgilerini kaydedebilir.
